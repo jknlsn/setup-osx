@@ -5,6 +5,9 @@ First things to setup on a new install of OSX.
 
 ## HomeBrew
 
+Install with
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
 ### VS Code Insiders
 
 `ln -s /Applications/Visual\ Studio\ Code\ -\ Insiders.app/Contents/MacOS/Electron /usr/local/bin/code-insiders`
