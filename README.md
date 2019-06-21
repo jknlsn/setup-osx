@@ -8,7 +8,16 @@ First things to setup on a new install of OSX.
 Install with
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
+`brew tap homebrew/cask`
+`brew tap homebrew/cask-versions`
+
+### iTerm2
+
+`brew cask install iterm2`
+
 ### VS Code Insiders
+
+`brew cask install visual-studio-code-insiders`
 
 `ln -s /Applications/Visual\ Studio\ Code\ -\ Insiders.app/Contents/MacOS/Electron /usr/local/bin/code-insiders`
 
