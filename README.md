@@ -24,6 +24,10 @@ Install with
 ### Oh my ZSH
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
+### FiraCode
+`brew tap homebrew/cask-fonts`
+`brew cask install font-fira-code`
+
 # Utilities
 
 ## Quality of life
