@@ -17,6 +17,8 @@ First things to setup on a new install of OSX.
 
 `brew cask install iterm2`
 
+[TODO: find a way to set the font in profile through command line](https://iterm2.com/documentation-dynamic-profiles.html)
+
 ### VS Code Insiders
 
 `brew cask install visual-studio-code-insiders`
