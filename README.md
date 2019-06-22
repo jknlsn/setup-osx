@@ -8,7 +8,9 @@ First things to setup on a new install of OSX.
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 `brew tap homebrew/cask`
+
 `brew tap homebrew/cask-versions`
+
 `brew tap homebrew/cask-fonts`
 
 ### iTerm2
@@ -27,8 +29,11 @@ First things to setup on a new install of OSX.
 
 ### Spaceship
 `git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"`
+
 `ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"`
+
 `sed -i -e 's/robbyrussell/spaceship/' ~/.zshrc`
+
 `~/.zshrc`
 
 # Utilities
