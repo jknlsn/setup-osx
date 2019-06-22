@@ -31,6 +31,12 @@ First things to setup on a new install of OSX.
 
 ## Quality of life
 
+## Spectacle
+`brew cask install spectacle`
+
+## Caffeine
+`brew cask install caffeeine`
+
 ## Music
 
 [Musicbrainz Picard](https://picard.musicbrainz.org/)
