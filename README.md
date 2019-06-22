@@ -25,6 +25,12 @@ First things to setup on a new install of OSX.
 ### FiraCode
 `brew cask install font-fira-code`
 
+### Spaceship
+`git clone https://github.com/denysdovhan/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt"`
+`ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"`
+`sed -i -e 's/robbyrussell/spaceship/' ~/.zshrc`
+`~/.zshrc`
+
 # Utilities
 
 ## Quality of life
