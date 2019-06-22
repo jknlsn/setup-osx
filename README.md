@@ -5,11 +5,11 @@ First things to setup on a new install of OSX.
 
 ## HomeBrew
 
-Install with
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 `brew tap homebrew/cask`
 `brew tap homebrew/cask-versions`
+`brew tap homebrew/cask-fonts`
 
 ### iTerm2
 
@@ -25,7 +25,6 @@ Install with
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 ### FiraCode
-`brew tap homebrew/cask-fonts`
 `brew cask install font-fira-code`
 
 # Utilities
