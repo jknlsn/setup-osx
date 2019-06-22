@@ -31,19 +31,20 @@ First things to setup on a new install of OSX.
 
 ## Quality of life
 
-## Spectacle
+### Spectacle
 `brew cask install spectacle`
 
-## Caffeine
+### Caffeine
 `brew cask install caffeeine`
 
 ## Music
 
-[Musicbrainz Picard](https://picard.musicbrainz.org/)
+### [Musicbrainz Picard](https://picard.musicbrainz.org/)
 
 `brew cask install musicbrainz-picard`
 
 ## Zip files
-[The Unarchiver](https://theunarchiver.com/)
+
+### [The Unarchiver](https://theunarchiver.com/)
 
 `brew cask install the-unarchiver`
