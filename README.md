@@ -19,8 +19,6 @@ First things to setup on a new install of OSX.
 
 `brew cask install visual-studio-code-insiders`
 
-`ln -s /Applications/Visual\ Studio\ Code\ -\ Insiders.app/Contents/MacOS/Electron /usr/local/bin/code-insiders`
-
 ### Oh my ZSH
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
