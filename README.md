@@ -46,7 +46,10 @@ First things to setup on a new install of OSX.
 `brew cask install spectacle`
 
 ### Caffeine
-`brew cask install caffeeine`
+`brew cask install caffeine`
+
+### AppCleaner
+`brew cask install appcleaner`
 
 ## Music
 

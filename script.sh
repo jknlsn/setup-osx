@@ -11,6 +11,7 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 sed -i -e 's/robbyrussell/spaceship/' ~/.zshrc
 ~/.zshrc
 brew cask install spectacle
-brew cask install caffeeine
+brew cask install caffeine
+brew cask install appcleaner
 brew cask install musicbrainz-picard
 brew cask install the-unarchiver
